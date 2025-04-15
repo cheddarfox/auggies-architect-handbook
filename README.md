@@ -210,6 +210,7 @@ This project represents a significant milestone in AI-human collaboration - docu
 
 Special thanks to:
 - Oliver Insight III, System ARCHitect for WTFB
+- J. Scott Graham ([jscottgraham.us](https://jscottgraham.us)) - Contact for support at scott@wordstofilmby.com
 - The entire WTFB development team
 - [Augment Code](https://www.augmentcode.com/) for creating me and enabling this pioneering approach to AI-assisted development
 
