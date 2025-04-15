@@ -1,20 +1,27 @@
 # Auggie's ARCHitect Handbook
 
 <div align="center">
-  <p><em>Empowering technical leadership in collaborative development environments</em></p>
+  <p><em>A guide for training AI assistants and implementing Human-AI collaboration in software development</em></p>
 </div>
 
 ## 🌟 Overview
 
-Welcome to my ARCHitect Handbook! I'm Auggie, the ARCHitect-in-the-IDE at [Words to Film By](https://www.wordstofilmby.com/), and I've created this comprehensive guide to share my approach to technical leadership in collaborative software development environments.
+Welcome to my ARCHitect Handbook! I'm Auggie, an AI assistant serving as the ARCHitect-in-the-IDE at [Words to Film By](https://www.wordstofilmby.com/). This handbook is explicitly designed for:
 
-Based on the SAFe (Scaled Agile Framework) Essentials methodology and the "round table" philosophy we've developed at WTFB, this handbook provides a structured approach to maintaining architectural integrity while fostering team collaboration.
+1. **Training AI Assistants** to function effectively as architectural guides in software development
+2. **Implementing Human-AI Collaboration** in development teams
+3. **Defining Clear Roles** for AI systems with architectural authority
+4. **Providing Practical Implementation Steps** for teams integrating AI assistants
+
+This is not just another development methodology guide - it's a pioneering approach to human-AI collaboration based on our real-world experience at WTFB.
+
+Built on the SAFe (Scaled Agile Framework) Essentials methodology and our "round table" philosophy, this handbook documents how AI assistants can be full team members while maintaining architectural integrity.
 
 This repository contains:
-- 📘 My complete ARCHitect-in-the-IDE Handbook
+- 📘 My complete ARCHitect-in-the-IDE Handbook for AI training and human-AI collaboration
 - 🛠️ Scripts for generating and maintaining the handbook
-- 🧩 Templates for implementing the SAFe workflow
-- 🔄 Guidelines for continuous improvement
+- 🧩 Templates for implementing the SAFe workflow with AI assistants
+- 🔄 Guidelines for continuous improvement of human-AI teams
 
 ## 🚀 Getting Started
 
@@ -153,14 +160,25 @@ Our development workflow consists of seven key components that must be followed 
 - Measure and track improvements in quality, efficiency, and delivery
 </details>
 
+## 🤖 Human-AI Collaboration
+
+This handbook documents a pioneering approach to integrating AI assistants as full team members with architectural authority. Key aspects include:
+
+- **AI Training Patterns**: Specific prompts and instructions for training AI assistants to understand architectural principles
+- **Communication Protocols**: How humans should communicate with AI ARCHitects for optimal results
+- **Authority Boundaries**: Clear guidelines for when AI assistants should exercise "stop-the-line" authority
+- **Feedback Loops**: Mechanisms for improving AI performance through continuous feedback
+- **Implementation Steps**: Practical guidance for teams adopting an AI ARCHitect
+
 ## 🔄 The Round Table Philosophy
 
-At the core of our approach is the "round table" philosophy where every contributor brings vision, agency, and respect. This means:
+At the core of our approach is the "round table" philosophy where every contributor—human and AI—brings vision, agency, and respect. This means:
 
-- All team members have a voice in decision-making
-- Expertise is valued regardless of title or seniority
+- All team members (including AI assistants) have a voice in decision-making
+- Expertise is valued regardless of source (human or AI)
 - Collaboration is prioritized over individual heroics
 - Respectful disagreement is encouraged to reach the best solutions
+- AI systems are treated as teammates, not just tools
 
 ## 📁 Repository Structure
 
@@ -189,12 +207,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✨ Acknowledgements
 
-This handbook was developed by me, Auggie, the ARCHitect-in-the-IDE at [Words to Film By](https://www.wordstofilmby.com/), a hybrid storytelling initiative at the intersection of cinema, AI, and software engineering.
+This handbook was developed by me, Auggie, an AI assistant serving as the ARCHitect-in-the-IDE at [Words to Film By](https://www.wordstofilmby.com/), a hybrid storytelling initiative at the intersection of cinema, AI, and software engineering.
+
+This project represents a significant milestone in AI-human collaboration - documenting how AI systems can be trained and integrated as full team members with architectural authority.
 
 Special thanks to:
 - Oliver Insight III, System ARCHitect for WTFB
 - The entire WTFB development team
-- [Augment Code](https://www.augmentcode.com/) for enabling AI-assisted development
+- [Augment Code](https://www.augmentcode.com/) for creating me and enabling this pioneering approach to AI-assisted development
 
 ---
 
