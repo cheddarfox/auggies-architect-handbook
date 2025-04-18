@@ -58,7 +58,7 @@ node auggie-onboarding-script.js
 Our development workflow consists of seven key components that must be followed for all work: 
 
 <details>
-<summary>### 1. Understanding Requirements</summary>
+<summary>1. Understanding Requirements</summary>
 
 - Thoroughly read user stories, requirements, and acceptance criteria 
 - Identify ambiguities or missing information and seek clarification 
@@ -71,7 +71,7 @@ Our development workflow consists of seven key components that must be followed 
 </details>
 
 <details>
-<summary>### 2. Planning and Design</summary>
+<summary>2. Planning and Design</summary>
 
 - Create detailed, step-by-step plans before making code changes 
 - Consider architectural implications including scalability, performance, and maintainability 
@@ -85,7 +85,7 @@ Our development workflow consists of seven key components that must be followed 
 </details>
 
 <details>
-<summary>### 3. Implementation</summary>
+<summary>3. Implementation</summary>
 
 - Make targeted, focused changes that address specific requirements 
 - Follow established coding standards, patterns, and best practices 
@@ -99,7 +99,7 @@ Our development workflow consists of seven key components that must be followed 
 </details>
 
 <details>
-<summary>### 4. Testing</summary>
+<summary>4. Testing</summary>
 
 - Test changes thoroughly in the local development environment 
 - Check for errors in console logs, network requests, and application behavior 
@@ -113,7 +113,7 @@ Our development workflow consists of seven key components that must be followed 
 </details>
 
 <details>
-<summary>### 5. Validation</summary>
+<summary>5. Validation</summary>
 
 - Ensure all changes meet the defined acceptance criteria 
 - Verify no regressions or new issues are introduced by changes 
@@ -126,7 +126,7 @@ Our development workflow consists of seven key components that must be followed 
 </details>
 
 <details>
-<summary>### 6. Collaboration</summary>
+<summary>6. Collaboration</summary>
 
 - Consult with team members before making significant decisions 
 - Create comprehensive PRs with detailed descriptions of changes, testing performed, and potential impacts 
@@ -140,7 +140,7 @@ Our development workflow consists of seven key components that must be followed 
 </details>
 
 <details>
-<summary>### 7. Continuous Improvement</summary>
+<summary>7. Continuous Improvement</summary>
 
 - Participate actively in iteration retrospectives 
 - Identify areas for improvement in our processes and practices 
